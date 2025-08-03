@@ -1,9 +1,9 @@
-## 👋 Hi! I'm Vitor Ferreira dos Santos de Lacerda
+## Hi! I'm Vitor Ferreira dos Santos de Lacerda
 I'm a Computer Science undergraduate at UNICAMP, with a background in the ProFIS interdisciplinary program. I'm passionate about technology, mobile development, and building meaningful solutions that create positive social and educational impact.
 
-🎓 Currently, I work as an iOS developer at the Apple Developer Academy – Instituto Eldorado, where I build native iOS applications using Swift and SpriteKit, with a strong focus on usability, accessibility, and user-centered design. I’ve also implemented AI/ML features using Core ML and Create ML.
+Currently, I work as an iOS developer at the Apple Developer Academy – Instituto Eldorado, where I build native iOS applications using Swift and SpriteKit, with a strong focus on usability, accessibility, and user-centered design.
 
-💼 I have experience with both academic and real-world projects in:
+I have experience with both academic and real-world projects in:
 
 Full-stack web and mobile development (React, TypeScript, Java)
 
@@ -15,9 +15,7 @@ Relational databases (MySQL, PostgreSQL)
 
 Agile collaboration with Scrum and Challenge-Based Learning (CBL)
 
-📚 I also served as a bilingual monitor at the Brazilian ICPC Summer School 2025, supporting international instructors and contributing to event coordination.
-
-🚀 I'm always looking for new challenges where I can combine technology, creativity, and social impact.
+I also served as a bilingual monitor at the Brazilian ICPC Summer School 2025, supporting international instructors and contributing to event coordination.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
